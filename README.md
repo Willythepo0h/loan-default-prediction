@@ -26,7 +26,7 @@ The model pipeline includes data cleaning, categorical encoding, SMOTE for class
 
 ## 🛠 Tech Stack
 - Python, Pandas, NumPy, Scikit-learn
-- XGBoost, LightGBM
+- XGBoost, Random Forest
 - SHAP for explainability
 - SMOTE for imbalance handling
 
