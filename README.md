@@ -1,6 +1,6 @@
 # 📊 Loan Default Prediction
 
-A machine learning project predicting loan defaults using XGBoost and SHAP explainability.  
+A **machine learning** project predicting loan defaults using XGBoost and SHAP explainability.  
 The model pipeline includes data cleaning, categorical encoding, SMOTE for class imbalance, and model comparison.
 
 ## 🚀 Quick Links
