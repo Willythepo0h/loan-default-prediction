@@ -4,7 +4,7 @@ A **machine learning** project predicting loan defaults using XGBoost and SHAP e
 The model pipeline includes data cleaning, categorical encoding, SMOTE for class imbalance, and model comparison.
 
 ## 🚀 Quick Links
-- 📄 [View PDF Report](https://github.com/Willythepo0h/loan-default-prediction/blob/0cc4126035860a9ec97cb2831c164f66dd145a61/Loan%20Default%20Prediction.ipynb%20-%20Colab.pdf)
+- 📄 [View PDF Report]([https://github.com/Willythepo0h/loan-default-prediction/blob/0cc4126035860a9ec97cb2831c164f66dd145a61/Loan%20Default%20Prediction.ipynb%20-%20Colab.pdf](https://github.com/Willythepo0h/loan-default-prediction/blob/main/%5BMachine%20Learning%5D-Loan%20Default%20Prediction/Loan%20Default%20Prediction.ipynb%20-%20Colab.pdf)
 - 💻 [Open in Google Colab](https://colab.research.google.com/drive/1M5VEaZ-NQ_wX4Q1SFl6kgcoSV640DLJA#scrollTo=xZsnuo0NjfbE)
 
 ---
