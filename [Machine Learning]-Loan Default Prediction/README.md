@@ -5,7 +5,7 @@ The model pipeline includes data cleaning, categorical encoding, SMOTE for class
 
 ## 🚀 Quick Links
 - 📄 [View PDF Report](https://github.com/Willythepo0h/loan-default-prediction/blob/main/%5BMachine%20Learning%5D-Loan%20Default%20Prediction/Loan%20Default%20Prediction.ipynb%20-%20Colab.pdf)
-- 💻 [Open in Google Colab](https://colab.research.google.com/drive/1M5VEaZ-NQ_wX4Q1SFl6kgcoSV640DLJA#scrollTo=xZsnuo0NjfbE)
+- 💻 [View Google Colab File](https://github.com/Willythepo0h/loan-default-prediction/blob/main/%5BMachine%20Learning%5D-Loan%20Default%20Prediction/Loan_Default_Prediction.ipynb)
 
 ---
 
